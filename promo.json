@@ -5,23 +5,11 @@
 
       "packageName": "com.ikk.flight.pilot.airplane.games",
 
-      "targetAsin": "B0CFHJYRD3",
+      "targetAsin": "B0BFQPLZS1",
 
-      "storeUrl":"https://www.amazon.com/Crazy-Head-Ball-Football-Game/dp/B0CFHJYRD3",
+      "storeUrl":"https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
 
       "rewardedVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4"
-    },
-
-    {
-      "name": "Worm Clash",
-
-      "packageName": "com.worm.clash",
-
-      "targetAsin": "B0XXXX",
-
-      "storeUrl": "https://amazon.com",
-
-      "rewardedVideoURL": "https://www.w3schools.com/html/movie.mp4"
     }
   ]
 }
