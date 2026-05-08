@@ -1,1 +1,27 @@
+{
+  "apps": [
+    {
+      "name": "AirPlane Simulator",
 
+      "packageName": "com.ikk.flight.pilot.airplane.games",
+
+      "targetAsin": "B0BQPZL51",
+
+      "storeUrl": "https://www.amazon.com/dp/B0BQPZL51",
+
+      "rewardedVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+
+    {
+      "name": "Worm Clash",
+
+      "packageName": "com.worm.clash",
+
+      "targetAsin": "B0XXXX",
+
+      "storeUrl": "https://amazon.com",
+
+      "rewardedVideoURL": "https://www.w3schools.com/html/movie.mp4"
+    }
+  ]
+}
